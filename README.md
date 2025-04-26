@@ -1,1 +1,1 @@
-# bolt-case-study
+# vibe-case-study
